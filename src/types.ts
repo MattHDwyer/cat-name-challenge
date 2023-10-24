@@ -13,6 +13,7 @@ export type Pet = {
 export enum PetType {
   Dog = 'Dog',
   Cat = 'Cat',
+  Fish = 'Fish',
 }
 
 export enum Gender {
